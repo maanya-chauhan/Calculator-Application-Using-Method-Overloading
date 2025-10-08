@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-// Non-public Calculator class (OK to keep in same file as public CalculatorApplication)
+
 class Calculator {
     public int add(int a, int b) {
         return a + b;
